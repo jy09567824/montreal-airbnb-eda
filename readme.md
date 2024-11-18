@@ -108,16 +108,6 @@ This project aims to assist an international hotel chain in evaluating the poten
 
 ---
 
-## 📊 Visualizations
-### Example
-- **Total Revenue by Neighborhood**:
-  ![Revenue Visualization](#)
-
-- **Availability Rate Time Series**:
-  ![Time Series Analysis](#)
-
----
-
 ## ✨ Key Insights and Recommendations
 1. **Location Selection**: Invest in the Ville-Marie neighborhood for maximum profitability.
 2. **Pricing Strategy**: Set prices around $278 with a focus on service quality to remain competitive.
